@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060947771542",
+    "project_id": "travel-log-app-3038b",
+    "storage_bucket": "travel-log-app-3038b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060947771542:android:92f2b1550a9cdf30e202b7",
+        "android_client_info": {
+          "package_name": "com.example.travel_log_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3TtocPCLzUZT8XHnbb8moQSAnx6UPG0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
